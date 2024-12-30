@@ -10,6 +10,23 @@ As it currently stands, we've had an informal agreement with Bethel Camp. Attend
 
 Currently expenses are tracked in our [ledger](https://docs.google.com/spreadsheets/d/1M8axZAh8wQwwjcA2s_n1GHVmJ1Ln0-SLTNitrxxbhPY/edit?gid=1091776946#gid=1091776946). This is just a running balance of our expense and income so that on years we have excess we can do something fun like sponsor a writer or pay for a speaker.
 
+## Tasks
+
+In an attempt to just keep things very simple, the bethelwritersretreat@gmail.com calendar will have time based tasks. 
+
+### Viewing Tasks
+
+https://youtu.be/o0wOJJiQu3g
+
+1. If you don't have access to the calendar for bethelWritersretreat@gmail.com, ask me to share it with you. 
+2. Go to the calendar and click the "tasks" tab
+
+### Completing Tasks
+
+1. Mark the task as complete
+2. Notify the appropriate parties that it is completed
+3. If it is a task needed again next year, create the task for next year before you move on
+
 ## Communications
 
 ### Facebook
